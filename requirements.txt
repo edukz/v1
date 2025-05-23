@@ -1,0 +1,4 @@
+psutil>=5.9.0
+keyboard>=0.13.5
+mouse>=0.7.1
+pyautogui>=0.9.53

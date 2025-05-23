@@ -1,0 +1,38 @@
+{
+  "module_name": "PokeAlliance_dx.exe",
+  "record_interval": 0.1,
+  "playback_delay": 0.2,
+  "playback_timeout": 2.5,
+  "wait_poll_interval": 0.005,
+  "include_z": true,
+  "hotkeys": {
+    "start_stop": "F8",
+    "pause_resume": "F9",
+    "toggle_mouse": "F10"
+  },
+  "debug": false,
+  "log_level": "INFO",
+  "pointer_chains": {
+    "x": {
+      "base_offset": 19477692,
+      "offsets": []
+    },
+    "y": {
+      "base_offset": 19477696,
+      "offsets": []
+    },
+    "z": {
+      "base_offset": 19477700,
+      "offsets": []
+    }
+  },
+  "axis_map": {
+    "x": "x",
+    "y": "y",
+    "z": "z"
+  },
+  "record_mouse": true,
+  "min_mouse_interval": 0.3,
+  "mouse_click_delay": 0.2,
+  "mouse_position_verify": true
+}

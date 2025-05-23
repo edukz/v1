@@ -1,0 +1,29 @@
+﻿# Ambientes virtuais Python
+venv/
+env/
+ENV/
+.venv/
+
+# Python
+__pycache__/
+*.py[cod]
+*.class
+*.pyc
+
+# Logs
+*.log
+cavebot.log
+poketibia_bot.log
+
+# IDEs
+.vscode/
+.idea/
+.claude/
+
+# Backups
+backups/
+*.bak
+
+# Sistema
+.DS_Store
+Thumbs.db
